@@ -6,6 +6,8 @@ show tables;
 select * from netflix;
 
 
+-- Netflix Data Analysis using SQL
+-- Solutions of 15 business problems
 -- 1Count the number of Movies vs. TV Shows
 SELECT 
     type,
